@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+    <pet id="1" name="name1" animal="animal1" gender="m" vaccination="true"/>
+    <pet id="2" name="name2" animal="animal2" gender="f" vaccination="false"/>
+    <pet id="3" name="name3" animal="animal3" gender="f" vaccination="true"/>
+    <pet id="4" name="name4" animal="animal4" gender="m" vaccination="false"/>
+    <pet id="5" name="name5" animal="animal5" gender="f" vaccination="true"/>
+
+</dataset>
